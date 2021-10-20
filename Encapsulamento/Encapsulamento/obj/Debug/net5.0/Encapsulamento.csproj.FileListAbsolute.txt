@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+C:\Users\User\source\repos\CSharpCourse2\Encapsulamento\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache
