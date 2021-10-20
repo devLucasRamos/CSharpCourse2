@@ -6,8 +6,10 @@ namespace Course
 {
     class Program
     {
+       
         static void Main(string[] args)
         {
+           
             Triangulo x, y;
 
             x = new Triangulo();
@@ -118,6 +120,23 @@ namespace Course
             aluno.Nota3 = double.Parse(Console.ReadLine());
             Console.WriteLine("NOTA FINAL: " + aluno.NotaFinal());
             Console.WriteLine(aluno.Situacao());
+            
+
+            Console.WriteLine("Entre com o valor do raio: ");
+            double raio = double.Parse(Console.ReadLine());
+
+            double circ = Calculadora.Circunferencia(raio);
+            Console.WriteLine("Circunferencia: "+ circ.ToString("F2",CultureInfo.InvariantCulture));
+            double vol = Calculadora.Volume(raio);
+            Console.WriteLine("Volume: " + vol.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Pi: "+ Calculadora.Pi.ToString("F2",CultureInfo.InvariantCulture));
+
+            Console.WriteLine("Qual é a cotação do dólar?");
+            double cotacao = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            Console.WriteLine("Quantos dólares você vai comprar? ");
+            double quantidade = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            double convertido = ConversorDeMoeda.Conversor(cotacao,quantidade);
+            Console.WriteLine("Valor a ser pago em reais = " + convertido.ToString("F2",CultureInfo.InvariantCulture));
         }
     }
 }
